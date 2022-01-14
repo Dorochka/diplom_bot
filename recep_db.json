@@ -1,0 +1,93 @@
+[
+    {
+        "status": "brea",
+        "name": "Блины простые на 1 яйце",
+        "pic": "https://static.1000.menu/img/content-v2/af/84/5663/bliny-prostye-s-1-yaicom_1617087171_9_max.jpg",
+        "href": "https://1000.menu/cooking/5663-bliny-prostye-s-1-yaicom"
+    },
+    {
+        "status": "lunch",
+        "name": "Классический борщ с мясом говядины и свинины",
+        "pic": "https://static.1000.menu/img/content-v2/d8/13/3424/klassicheskii-borshch-s-myasom_1615797937_10_max.jpg",
+        "href": "https://1000.menu/cooking/3424-klassicheskii-borshch-s-myasom"
+    },
+    {
+        "status": "dinn",
+        "name": "Кордон блю классический с ветчиной и сыром",
+        "pic": "https://static.1000.menu/img/content-v2/38/70/44041/kordon-blu-klassicheskii-s-vetchinoi-i-syrom_1584036165_15_max.jpg",
+        "href": "https://1000.menu/cooking/44041-kordon-blu-klassicheskii-s-vetchinoi-i-syrom"
+    },
+    {
+        "status": "brea",
+        "name": "Творожная запеканка как в детском саду",
+        "pic": "https://static.1000.menu/img/content/4584/zapekanka-kak-v-detskom-sadu_1497608806_7_max.jpg",
+        "href": "https://1000.menu/cooking/4584-zapekanka-kak-v-detskom-sadu"
+    },
+    {
+        "status": "brea",
+        "name": "Сырники из творога с мукой на сковороде",
+        "pic": "https://static.1000.menu/img/content-v2/a7/ec/39379/syrniki-iz-tvoroga-s-mukoi-na-skovorode_1613887382_11_max.jpg",
+        "href": "https://1000.menu/cooking/39379-syrniki-iz-tvoroga-s-mukoi-na-skovorode"
+    },
+    {
+        "status": "brea",
+        "name": "Бекон с сыром в духовке",
+        "pic": "https://static.1000.menu/img/content-v2/84/a0/40747/bekon-s-syrom-v-duxovke_1613051265_9_max.jpg",
+        "href": "https://1000.menu/cooking/40747-bekon-s-syrom-v-duxovke"
+    },
+    {
+        "status": "brea",
+        "name": "Рисовая каша с тыквой на молоке",
+        "pic": "https://static.1000.menu/img/content-v2/b5/37/23910/risovaya-kasha-s-tykvoi-na-moloke_1616395784_12_max.jpg",
+        "href": "https://1000.menu/cooking/23910-risovaya-kasha-s-tykvoi-na-moloke"
+    },
+    {
+        "status": "lunch",
+        "name": "Рассольник классический с перловкой и солеными огурцами",
+        "pic": "https://static.1000.menu/img/content/33395/rassolnik-s-perlovkoi-klassicheskii_1552741959_13_max.jpg",
+        "href": "https://1000.menu/cooking/33395-rassolnik-s-perlovkoi-klassicheskii"
+    },
+    {
+        "status": "lunch",
+        "name": "Солянка сборная мясная классическая",
+        "pic": "https://static.1000.menu/img/content-v2/0a/58/5233/solyanka-sbornaya-myasnaya-klassicheskaya_1624351962_26_max.jpg",
+        "href": "https://1000.menu/cooking/5233-solyanka-klassicheskaya-s-myasnym-naborom-i-maslinami-i-ogurcami"
+    },
+    {
+        "status": "lunch",
+        "name": "Рыбный суп из форели",
+        "pic": "https://static.1000.menu/img/content-v2/8e/1f/29271/rybnyi-sup-iz-foreli_1613902080_11_max.jpg",
+        "href": "https://1000.menu/cooking/29271-rybnyi-sup-iz-foreli"
+    },
+    {
+        "status": "lunch",
+        "name": "Гороховый суп с копчеными ребрышками классический",
+        "pic": "https://static.1000.menu/img/content-v2/45/29/276/sup-gorohovji-s-kopchenostyami_1592818097_16_max.jpg",
+        "href": "https://1000.menu/cooking/276-sup-gorohovji-s-kopchenostyami"
+    },
+    {
+        "status": "dinn",
+        "name": "Мясо по-французски с сыром и помидорами в духовке",
+        "pic": "https://static.1000.menu/img/content-v2/05/e9/18655/myaso-po-francuzski-s-syrom-i-pomidorami-v-duxovke_1601546314_12_max.jpg",
+        "href": "https://1000.menu/cooking/18655-myaso-po-francuzski-s-syrom-i-pomidorami-v-duxovke"
+    },
+    {
+        "status": "dinn",
+        "name": "Гуляш венгерский классический из говядины",
+        "pic": "https://static.1000.menu/img/content/34531/vengerskii-gulyash-peredelka_1556373325_9_max.jpg",
+        "href": "https://1000.menu/cooking/34531-gulyash-vengerskii-klassicheskii-iz-govyadiny"
+    },
+    {
+        "status": "dinn",
+        "name": "Отбивные из свинины на сковороде",
+        "pic": "https://static.1000.menu/img/content-v2/9d/f4/39981/otbivnye-iz-svininy-na-skovorode_1603101287_10_max.jpg",
+        "href": "https://1000.menu/cooking/39981-otbivnye-iz-svininy-na-skovorode"
+    },
+    {
+        "status": "dinn",
+        "name": "Классический чахохбили из курицы по-грузински",
+        "pic": "https://static.1000.menu/img/content/34324/klassicheskii-chaxoxbili-iz-kuricy-po-gruzinski-peredelka_1555581991_1_max.jpg",
+        "href": "https://1000.menu/cooking/34324-klassicheskii-chaxoxbili-iz-kuricy-po-gruzinski"
+    }
+]
+
